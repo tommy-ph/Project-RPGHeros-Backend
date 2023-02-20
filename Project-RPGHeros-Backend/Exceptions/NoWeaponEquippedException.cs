@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Project_RPG_Heroes.Characters
+namespace Project_RPGHeros_Backend.Exceptions
 {
     [Serializable]
     internal class NoWeaponEquippedException : Exception
